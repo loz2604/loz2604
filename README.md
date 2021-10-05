@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on: Master: Coding
 - 🌱 I’m currently learning: React, Javascript, Node.js
 - 👯 I have worked with Python, HTML, CSS
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
 - 😄 I love to crochet, watch football, listen to music, play games and of course code!
 - ⚡ Fun fact: I used to play English Pool for my county.
 

@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 textalign = "center" color = "red"> Hi there I'm </h1>
+<h1 textalign = "center" color ="green"> Lorraine Williams </h1>
 
-<!--
-**loz2604/loz2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Master: Coding
+- 🌱 I’m currently learning: React, Javascript, Node.js
+- 👯 I have worked with Python, HTML, CSS
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: ... -->
+- 😄 I love to crochet, watch football, listen to music, play games and of course code!
+- ⚡ Fun fact: I used to play English Pool for my county.
+

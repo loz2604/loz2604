@@ -1,5 +1,5 @@
 
-<img src = "image.PNG"> 
+<img src = "image.PNG" height="150px"> 
 <h1> Hi there I'm Lorraine Williams </h1>
 
 

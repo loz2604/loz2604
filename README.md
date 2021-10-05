@@ -1,5 +1,5 @@
-<h1 textalign = "center" color = "red"> Hi there I'm </h1>
-<h1 textalign = "center" color ="green"> Lorraine Williams </h1>
+<h1> Hi there I'm Lorraine Williams</h1>
+
 
 
 

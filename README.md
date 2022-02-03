@@ -4,9 +4,8 @@
 
 
 
-- 🔭 I’m currently working on: Master: Coding
-- 🌱 I’m currently learning: React, Javascript, Node.js
-- 👯 I have worked with Python, HTML, CSS
+- 🔭 I’m currently working on: Two player battleships
+- 👯 I have worked with Python, HTML, CSS, React, Javascript, Node.js
 - 😄 I love crocheting, watching football, listening to music, gaming, fishing and of course coding!
 - ⚡ Fun fact: I used to play English Pool for my county.
 
